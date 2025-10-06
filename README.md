@@ -8,6 +8,7 @@ Este repositorio contiene información sobre empresas de computación cuántica 
 ### Archivos
 
 - [empresas_cuanticas_bolsa_usa.md](empresas_cuanticas_bolsa_usa.md) - Lista completa de empresas de computación cuántica en bolsa USA
+- [constructoras_computadoras_cuanticas.md](constructoras_computadoras_cuanticas.md) - Empresas que construyen hardware de computadoras cuánticas
 
 ## Empresas Destacadas
 
